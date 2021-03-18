@@ -1,1 +1,3 @@
-# MagusWyvern
+# About Me
+
+📌 Learning Web Development!
