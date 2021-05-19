@@ -2,6 +2,6 @@
 
 I am an aspiring student from MJSC Gemencheh!
 
-📌 Learning Web Development!
+📌 Learning CCNA
 
 Proficient in Python and Javascript
