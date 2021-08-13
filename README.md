@@ -6,25 +6,25 @@ I am an aspiring student from MJSC Gemencheh!
 
 Things I am familiar with:
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/bulma-plain.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/bulma-plain.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/git-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/git-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/html5-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/html5-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/jest-plain.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/jest-plain.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/jupyter-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/jupyter-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/nodejs-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/nodejs-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/python-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/python-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/react-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/react-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/vscode-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/vscode-original.png">
 
-<img src="https://github.com/MagusWyvern/MagusWyvern/icons/vuejs-original.png">
+<img src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/vuejs-original.png">
 
 Skills I acquired so far:
 
