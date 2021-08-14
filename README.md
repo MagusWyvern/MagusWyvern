@@ -4,11 +4,11 @@ I am an aspiring student from MJSC Gemencheh!
 
 📌 Focusing on Web Development, developing web applications.
 
-Things I am familiar with:
+### Things I am familiar with:
 
 <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/bulma-plain.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/git-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/html5-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/jest-plain.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/jupyter-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/nodejs-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/python-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/react-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/vscode-original.png"> <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/vuejs-original.png">
 
-Skills I acquired so far:
+### Skills I acquired so far:
 
 - Basic knowledge of networking
 - Basic Information Security and Penetration Testing using Nmap
@@ -21,3 +21,21 @@ Skills I acquired so far:
 
 - Basic knowledge in Quantum Computing with Qiskit's Textbook
 - Quantum Circuits
+
+### Projects I made:
+
+- [Vue Random User Generator](https://github.com/MagusWyvern/vue-random-user-generator) <br>
+A simple web app that fetches from the RandomUser API using Vuejs
+
+- [Discord Bot using Discordjs](https://github.com/MagusWyvern/frostguardian-discord) <br>
+Discord bot pet project ;)
+
+- [Vue Task Tracker](https://github.com/MagusWyvern/task-tracker) <br>
+A web app that users can use to track tasks (lol), also using Vuejs
+
+- [Simple REST API](https://github.com/MagusWyvern/fireship-rest-api) <br>
+Following the tutorial by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA), made a simple API using Expressjs
+
+### Projects I worked on:
+
+- [Malay Translation for Obsidian](https://github.com/MagusWyvern/obsidian-docs)
