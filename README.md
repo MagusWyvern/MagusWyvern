@@ -2,7 +2,7 @@
 
 I am an aspiring student from MJSC Gemencheh!
 
-📌 Focusing on Web Development, developing web applications.
+📌 Experimenting with GraphQL
 
 ### Things I am familiar with:
 
