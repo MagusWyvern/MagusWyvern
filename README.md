@@ -2,8 +2,6 @@
 
 I am an aspiring student from MJSC Gemencheh!
 
-📌 Experimenting with GraphQL
-
 ![MagusWyvern's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagusWyvern&show_icons=true&theme=cobalt) 
 
 <br>
