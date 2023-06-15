@@ -4,9 +4,6 @@ I am an aspiring student from MARA Junior Science College Gemencheh! I'm a Stude
 
 ![MagusWyvern's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagusWyvern&show_icons=true&theme=cobalt) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagusWyvern&layout=compact)](https://github.com/MagusWyvern/github-readme-stats)
-
-
 ### Some of the things I'm familiar with:
 
 <img width="26px" src="https://github.com/MagusWyvern/MagusWyvern/blob/0827f58d32c8c2836ac4c39769fd8a8c6b1ad9bb/icons/html5-original.png"> HTML5 
@@ -38,3 +35,6 @@ Interactive Physics Experiments Lab for upper secondary students
 Top down RPG game featuring foxes, bats and dragons 
 
 - [Malay Translation for Obsidian](https://github.com/MagusWyvern/obsidian-docs)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagusWyvern&layout=compact)](https://github.com/MagusWyvern/github-readme-stats)
